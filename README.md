@@ -2,6 +2,8 @@
 
 Sublime text Plugin for using shortcut to toggle Applescript comments, support Sublime text 2 and 3
 
+![Image of demo](http://ww3.sinaimg.cn/large/6110a121gw1eyzaig6t9fg209u0400sw.gif)
+
 
 # Installation
 
