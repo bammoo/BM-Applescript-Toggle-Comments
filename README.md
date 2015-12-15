@@ -10,7 +10,7 @@ Sublime text Plugin for using shortcut to toggle Applescript comments, support S
 Clone the repository in your Sublime Text "Packages" directory:
 
 ```shell
-git clone https://github.com/bammoo/BM-Applescript-Toggle-Comments.git
+git clone https://github.com/bammoo/BM-Applescript-Toggle-Comments.git BM\ Applescript\ Toggle\ Comments
 ```
 
 
