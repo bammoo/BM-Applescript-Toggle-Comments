@@ -1,9 +1,13 @@
 [
-  { 
-    "keys": ["ctrl+alt+/"], 
-    "command": "toggle_applescript_comments" ,
-    "context":[
-       { "key": "selector", "operator": "equal", "operand": "source.applescript" }
-    ]
-  }
+    {
+        "keys": ["ctrl+alt+/"],
+        "command": "toggle_applescript_comments",
+        "context": [
+            {
+                "key": "selector",
+                "operator": "equal",
+                "operand": "source.applescript"
+            }
+        ]
+    }
 ]
