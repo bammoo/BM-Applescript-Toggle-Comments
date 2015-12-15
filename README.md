@@ -36,3 +36,10 @@ Default keymap
 - `ctrl+/` on Mac OS X
 - `ctrl+alt+/` on Windows
 - `ctrl+alt+/` on Linux
+
+# Feature list
+
+- [x] Toggle whole line
+- [ ] Toggle only selected text in line (coming soon)
+
+
