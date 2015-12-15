@@ -10,24 +10,24 @@
                 "children":
                 [
                     {
-                        "caption": "BM-Applescript-Toggle-Comments",
+                        "caption": "BM Applescript Toggle Comments",
                         "children":
                         [
                             {
                                 "command": "open_file",
-                                "args": {"file": "${packages}/BM-Applescript-Toggle-Comments/README.md"},
+                                "args": {"file": "${packages}/BM Applescript Toggle Comments/README.md"},
                                 "caption": "README"
                             },
                             {
                                 "command": "open_file",
-                                "args": {"file": "${packages}/BM-Applescript-Toggle-Comments/LICENSE"},
+                                "args": {"file": "${packages}/BM Applescript Toggle Comments/LICENSE"},
                                 "caption": "LICENSE"
                             },
                             { "caption": "-" },
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/BM-Applescript-Toggle-Comments/Default (OSX).sublime-keymap",
+                                    "file": "${packages}/BM Applescript Toggle Comments/Default (OSX).sublime-keymap",
                                     "platform": "OSX"
                                 },
                                 "caption": "Key Bindings – Default"
@@ -35,7 +35,7 @@
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/BM-Applescript-Toggle-Comments/Default (Linux).sublime-keymap",
+                                    "file": "${packages}/BM Applescript Toggle Comments/Default (Linux).sublime-keymap",
                                     "platform": "Linux"
                                 },
                                 "caption": "Key Bindings – Default"
@@ -43,7 +43,7 @@
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/BM-Applescript-Toggle-Comments/Default (Windows).sublime-keymap",
+                                    "file": "${packages}/BM Applescript Toggle Comments/Default (Windows).sublime-keymap",
                                     "platform": "Windows"
                                 },
                                 "caption": "Key Bindings – Default"
