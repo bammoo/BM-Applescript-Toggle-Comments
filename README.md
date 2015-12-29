@@ -43,3 +43,9 @@ Default keymap
 - [ ] Toggle only selected text in line (coming soon)
 
 
+
+# Contributors
+
+John Xiao (@bammoo)
+kycoolcool (@kycool)
+
