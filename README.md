@@ -46,6 +46,6 @@ Default keymap
 
 # Contributors
 
-John Xiao (@bammoo)
+John Xiao (@bammoo)  
 kycoolcool (@kycool)
 
